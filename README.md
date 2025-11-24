@@ -1,6 +1,6 @@
 <b>Hi,I am</b> &#9995;<b>Ravikumara C P</b>
 # 💫 About Me:
-I am,Software Engineer-QA @Mitsogo,
+I am,Software Engineer-QA @Mitsogo.
 
 
 ## 🌐 Socials:
