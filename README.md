@@ -1,6 +1,6 @@
-<b>Hi,I am</b> &#9995;<b>Ravikumara C P</b>
-# 💫 About Me:
-I am,Software Engineer-QA @Mitsogo.
+<b>Hi,I am</b> &#9995;<b>C P Ravi Kumar</b>
+About Me
+I'm a Software Engineer passionate about crafting robust and scalable solutions, with a focus on mobile and web technologies.
 
 
 ## 🌐 Socials:
