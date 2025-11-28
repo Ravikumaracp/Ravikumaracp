@@ -1,7 +1,6 @@
-<b>Hi,I am</b> &#9995;<b>C P Ravi Kumar</b>
+<b>Hi &#9995; ,I am</b> &#9995;<b>C P Ravi Kumar</b>
 # About Me
 I'm a Software Engineer passionate about crafting robust and scalable solutions, with a focus on mobile and web technologies.
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shiva Sathya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cl_me_jaguar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ravikumara C P) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RavikumaraCP1) 
