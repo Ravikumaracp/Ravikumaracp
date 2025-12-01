@@ -1,4 +1,4 @@
-<b>Hi &#9995; ,I am</b> <b>C P Ravi Kumar</b>
+<b>Hi &#9995;, I am</b> <b>C P Ravi Kumar</b>
 # About Me
 I'm a Software Engineer passionate about crafting robust and scalable solutions, with a focus on mobile and web technologies.
 
