@@ -1,6 +1,6 @@
 <b>Hi &#9995;, I am</b> <b>C P Ravi Kumar</b>
 # About Me
-I'm a Software Engineer passionate about crafting robust and scalable solutions, with a focus on mobile and web technologies.
+I'm a Software Engineer passionate about crafting robust and scalable solutions, with a focus on mobile and full stack technologies.
 
 ## 🌐 Socials:
 [![Leetcode](https://img.shields.io/badge/Leetcode-%23E4405F.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/u/Ravikumara_01/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikumara-c-p-495968225/)
